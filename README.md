@@ -55,6 +55,7 @@ BLOCKENGINE_URL=ny.mainnet.block-engine.jito.wtf  # Block engine URL
 
 ###### GENERAL SETTINGS ######
 LOG_LEVEL=info               # Logging level (info, debug, error)
+```
 
 
 ## 👤 Author
