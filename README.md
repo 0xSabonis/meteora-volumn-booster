@@ -58,7 +58,7 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ```
 
 
-## 👤 Author
-
-### Telegram: dogewhiz
+## 👤 Contact
+- Telegram: Rizz Muffin[https://t.me/dogewhiz]
+- GitHub: https://github.com/0xSabonis
 
